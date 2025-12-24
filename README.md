@@ -1,6 +1,4 @@
 
-#Project Overview
-
 This project focuses on analyzing employee data to help organizations understand workforce trends, employee behavior, and key HR metrics.
 The analysis helps HR teams make data-driven decisions related to retention, performance, and workforce planning.
 The project uses real-world HR data to identify patterns in employee demographics, attrition, job roles, and compensation.
